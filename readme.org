@@ -1,0 +1,6 @@
+- atom support:
+  - install some packages + dependencies
+    - build (build your current project directly from atom)
+    - linter (a base linter with cow powers)
+  - open as project folder in atom
+  - press  f9 to build
